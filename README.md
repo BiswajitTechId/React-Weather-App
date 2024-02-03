@@ -1,5 +1,4 @@
-React Weather App
-React Project: State of the Art Web Development
+React Weather App: State of the Art Web Development
 ===============================================
 
 A dependency--not a boilerplate--to make your React project a delight to
